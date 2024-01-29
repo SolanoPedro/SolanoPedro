@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pedro, an <a href="www.linkedin.com/in/pedro-undefined-747207292"> </a>☺</h1>
+<h1>Hi, I'm Pedro, <a href="www.linkedin.com/in/pedro-undefined-747207292"> </a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
